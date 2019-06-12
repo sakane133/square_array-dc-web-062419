@@ -1,6 +1,6 @@
 def square_array(array)
 array.each do |numbers|
-  puts "#{numbers * numbers}"
+  math.pow("#{numbers}", 2)
   
  end
 end
