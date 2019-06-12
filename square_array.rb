@@ -3,5 +3,5 @@ square = []
 array.each do |numbers| 
   square << (numbers * numbers)
  end
- puts square
+  square
 end
